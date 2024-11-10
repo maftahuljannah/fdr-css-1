@@ -1,0 +1,38 @@
+h1{
+    font-family: "Edu AU VIC WA NT Pre", cursive;
+    text-align: center;
+    font-weight: 500;
+    font-size: 40px;
+}
+h1 span{
+    color: red;
+}
+p{
+    font-family: "Edu AU VIC WA NT Pre", cursive;
+    font-weight: 400;
+    font-size: 30px;
+    text-align: justify;
+    width: 90%;
+    padding-left: 35px;
+}
+p span{
+    display: block;
+    padding: 10px 0;
+    color: darkblue;
+}
+a{
+    font-size: 20px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    width: 200px;
+    height: 60px;
+    line-height: 60px;
+    border-radius: 15px 0 15px 0;
+    background-color: red;
+    color: #fff;
+    cursor: pointer;
+}
+a:hover{
+    background-color: darkblue;
+}
